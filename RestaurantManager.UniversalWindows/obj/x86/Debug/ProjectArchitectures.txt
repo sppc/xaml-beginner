@@ -1,0 +1,2 @@
+C:\Users\SIMAO\Downloads\hwstart (1)\hwstart\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
+C:\Users\SIMAO\Downloads\hwstart (1)\hwstart\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
